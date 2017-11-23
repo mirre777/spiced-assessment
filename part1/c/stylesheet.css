@@ -1,0 +1,42 @@
+body {
+  background-color: #FFF;
+  margin-left: 7px;
+}
+
+p {
+  color: #000;
+  font-size: 16px;
+  font-family: Tahoma, Verdana;
+
+}
+li {
+  margin: 10px 0;
+
+}
+.orange {
+  color: #F3A733;
+  font-family: Verdana;
+
+}
+.red {
+  color:#E93F33;
+  font-family: Impact;
+
+}
+.pink {
+  color: #F7D2D3;
+  font-family: Georgia;
+
+}
+.black {
+  color: #000;
+  font-family: Tahoma;
+
+}
+a {
+  color: #1D47F3;
+
+}
+a:hover {
+  color: #1d74f3;
+}

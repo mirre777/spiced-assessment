@@ -1,0 +1,89 @@
+body {
+  background-color: #FFF;
+
+}
+div {
+  display: inline-block;
+  width: 100%;
+  position: relative;
+
+}
+.block-1 {
+  background-color: #808080;
+  width: 200px;
+  height: 200px;
+  border: none;
+  margin: 2px;
+  float: left;
+
+}
+.block-2 {
+  background-color: #000000;
+  width: 200px;
+  height: 200px;
+  border: none;
+  margin: 2px;
+  margin-left: 3px;
+  float: left;
+
+}
+.block-3 {
+  background-color: #274AFC;
+  width: 200px;
+  height: 200px;
+  border: none;
+  margin: 2px;
+  margin-left: 3px;
+  float: left;
+
+}
+.block-4 {
+  background-color: #832F82;
+  width: 200px;
+  height: 200px;
+  border: none;
+  margin: 2px;
+  margin-left: 3px;
+  float: left;
+
+}
+.block-1 div {
+  background-color: #F3A533;
+  width: 100px;
+  height: 100px;
+  border: none;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+
+}
+.block-2 div {
+  background-color: #FCF731;
+  width: 100px;
+  height: 100px;
+  border: none;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+
+}
+.block-3 div {
+  background-color: #3C7700;
+  width: 100px;
+  height: 100px;
+  border: none;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+
+}
+.block-4 div {
+  background-color: #F4BECA;
+  width: 100px;
+  height: 100px;
+  border: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+}
